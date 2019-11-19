@@ -1,1 +1,1 @@
-# Knight-Problem
+# Knight-Problem and Applet implementation
