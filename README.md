@@ -1,1 +1,1 @@
-# Knight-Problem and Applet implementation
+# Knight-Problem and Applet implementation with BFS
